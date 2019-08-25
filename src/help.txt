@@ -1,4 +1,13 @@
-yarn add eslint eslint - D
+--inicia package.json
+yarn init -y
+
+--create folders structure
+--mkdir src
+
+--add express
+yarn add express
+
+yarn add eslint -D
 yarn eslint init
 
 yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
