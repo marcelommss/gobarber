@@ -20,3 +20,13 @@ yarn sequelize db:migrate
 yarn sequelize db:migrate:undo
 -- rollback all migrations
 yarn sequelize db:migrate:undo:all
+
+--encrypt/decrypt hash
+yarn add bcryptjs
+
+--token jwt
+yarn add jsonwebtoken
+
+--yup - schema validation
+yarn add yup
+
