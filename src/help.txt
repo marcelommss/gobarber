@@ -8,27 +8,13 @@ yarn init -y
 yarn add express
 
 yarn add eslint -D
-yarn eslint init
+yarn eslint --init
+
+--remover package-lock.json (npm)
+--rodar yarn
 
 yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
 yarn eslint --fix src --ext .js
-
-yarn add sequelize
-yarn add sequelize-cli -D
-
---sequelize dependencies for postgres
-yarn add pg pg-hstore
-
-
--- migrations
--- cria migration
-yarn sequelize migration:create --name=create-users
--- executa migration
-yarn sequelize db:migrate
--- rollback migration
-yarn sequelize db:migrate:undo
--- rollback all migrations
-yarn sequelize db:migrate:undo:all
 
 --encrypt/decrypt hash
 yarn add bcryptjs
@@ -38,4 +24,7 @@ yarn add jsonwebtoken
 
 --yup - schema validation
 yarn add yup
+
+--multer - multi-part form data
+yarn add multer
 

@@ -1,0 +1,11 @@
+--visualizar todos os containers rodando
+docker ps
+
+--visualizar todos os containers, mesmo os que não estão rodando
+docker ps -a
+
+-- start - iniciar "containerName" ou "containerID"
+docker containerName start
+
+-- visualuizar erro - "containerName"
+docker logs containerName

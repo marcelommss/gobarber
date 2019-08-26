@@ -1,0 +1,22 @@
+--libs
+yarn add sequelize
+yarn add sequelize-cli -D
+
+--sequelize dependencies for postgres
+yarn add pg pg-hstore
+
+===Commands===
+-- executa migration
+yarn sequelize db:migrate
+-- rollback migration
+yarn sequelize db:migrate:undo
+-- rollback all migrations
+yarn sequelize db:migrate:undo:all
+
+-- migrations
+-- cria migration
+yarn sequelize migration:create --name=create-users
+yarn sequelize migration:create --name=create-files
+yarn sequelize migration:create --name=add-avatar-field-to-users
+yarn sequelize migration:create --name=create-appointments
+
