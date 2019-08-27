@@ -39,3 +39,6 @@ yarn add nodemailer
 
 --html template engine
 yarn add express-handlebars nodemailer-express-handlebars
+
+--queues control
+yarn add bee-queue
