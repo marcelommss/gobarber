@@ -1,0 +1,19 @@
+--libs
+yarn add nodemailer
+yarn add express-handlebars
+yarn add nodemailer-express-handlebars
+
+==Options
+--Amazon SES
+--Mailgun
+--Sparkpost
+--Mandril (Mailchimp)
+--Mailtrap (DEV)
+
+
+==Mailtrap
+-Copy config to ./config/mail.js
+
+==Template Engines
+--Handlebars
+yarn add express-handlebars

@@ -1,0 +1,7 @@
+--criar cluster do mongodb no docker
+docker run --name mongobarber -p 27017:27017 -d -t mongo
+
+--testar : localhost:27017
+
+--add lib
+yarn add mongoose

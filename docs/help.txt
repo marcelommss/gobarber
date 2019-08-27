@@ -31,3 +31,11 @@ yarn add multer
 --date-fns - dates
 yarn add date-fns@next
 
+--mongoose - mongodb orm
+yarn add mongoose
+
+--email
+yarn add nodemailer
+
+--html template engine
+yarn add express-handlebars nodemailer-express-handlebars
