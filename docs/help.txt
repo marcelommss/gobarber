@@ -42,3 +42,8 @@ yarn add express-handlebars nodemailer-express-handlebars
 
 --queues control
 yarn add bee-queue
+
+--error/logging
+yarn add @sentry/node@5.6.2
+yarn add express-async-errors
+yarn add youch
