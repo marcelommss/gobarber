@@ -1,0 +1,20 @@
+
+===Theme===
+Dracula
+
+===FONT===
+https://github.com/tonsky/FiraCode
+pasta: ttf
+
+===Icons===
+vscode-icons
+or material-icons
+
+===Extensions===
+...optional
+Color Highlight
+
+...must
+EditorConfig for VS Code(para manter o padrão em múltiplos editores)
+ESLint
+Prettier - Code Formatter
