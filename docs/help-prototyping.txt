@@ -1,0 +1,64 @@
+### Tools
+
+Sketch + completo
+
+InVision Studio + novo ... tem versionamento de layout
+
+Adobe XD + fácil
+
+Fegma -free
+
+### Adobe XD
+
+Exportar Assets ->
+ publica na nuvem e manda o link pro programador
+ -> tem todos os svgs, fonts, explicar somente as animações
+
+### STEPS
+
+1. Brand
+
+2. Colors
+ - https://pigment.shapefactory.co/
+ - https://coolors.co/app
+
+-> Call To Action ... green, blue, purple ... larger size
+
+-> gradients...
+https://uigradients.com/#GreenandBlue
+https://gradienthunt.com/
+
+
+3. Typography
+ ...tops:
+ - Montserrat
+ - OpenSans
+ - Roboto
+
+ sans-serif: ideal for UI - mobile reading
+
+ repos: fonts.google.com
+
+### Website TIPS
+
+Start Resolution :: 1000px -> 1100px
+Mobile First?
+
+### UI
+
+always create grids - vertically & horizontally
+
+1.5 multiplier rule
+
+=== buttons
+
+consider the visual identity
+
+SQUARE SHAPE : more agressive
+
+ROUND SHAPE : less agressive
+
+### REFERENCES
+
+pinterest
+behance
