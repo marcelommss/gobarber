@@ -1,0 +1,56 @@
+#1 EditorConfig for VS Code
+  the same format in different editors
+
+#2 ESLint
+  edit formatOnSave option
+
+#3 Prettier - Code Formatter
+ add prettier.esLintIntegration : true
+
+#4 Debugger for Chrome
+- debug js on chrome
+
+#5 vscode-icons
+- debug js on chrome
+
+#6 Live Saas Compiler
+
+#7 Auto Rename Tag
+
+#8 Spaces Inside Braces
+
+#9 DotENV
+- support for dotenv file syntax
+
+#10 ES7 React/Redux/GraphQL/React-Native snippets
+ - Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax.
+
+#11 React-Native/React/Redux snippets for es6/es7
+- Code snippets for React-Native/React/Redux es6/es7 and flowtype/typescript, Storybook.
+
+#12 React Native Tools
+- Debugging and integrated commands for React Native.
+
+#13 Glean
+glean - The extension provides refactoring tools for your React codebase.
+
+#14 Rocketseat ReactJS
+- ReactJS snippets created by Rocketseat.
+
+#15 Rocketseat React Native
+- React Native snippets created by Rocketseat.
+
+#16 vscode-styled-components
+
+===Optional
+
+# Dracula
+# GraphQL
+# Live Share
+# Live Server
+# Git Lens
+# Better Comments
+# Color Highlight
+# CSS Peek
+# Material Icon Theme
+# C#
